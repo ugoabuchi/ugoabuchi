@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mathew Fortune
-- 👀 I’m a Full-Stack Software Developer & Consultant
+- 👋 Hi, My name is Mathew Fortune
+- 👀 I’m a Software Developer & Consultant
 - 💞️ I’m also looking to collaborate with mutual minds 
 - 📫 How to reach me : mathewfortune54@gmail.com, +2348160885492 (Whatsapp Only)
 
