@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Mathew Fortune
 - 👀 I’m a Software Developer & Consultant
 - 💞️ I’m also looking to collaborate with mutual minds 
-- 📫 How to reach me : mathewfortune54@gmail.com, +2349128713995
+- 📫 How to reach me : mathewfortune54@gmail.com
 
 <!---
 ugoabuchi/ugoabuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
