@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Ugo .F Mathew
 - 👀 I’m a Software Engineer, Developer & Consultant
 - 💞️ I’m also looking to collaborate with mutual minds 
-- 📫 How to reach me : +2349020094495, mathewfortune54@gmail.com
+- 📫 How to reach me : +2349020094495, umathew42@gmail.com
 
 <!---
 ugoabuchi/ugoabuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
